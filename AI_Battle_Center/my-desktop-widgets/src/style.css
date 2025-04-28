@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+}
+
+.widget {
+  width: 300px;
+  height: 400px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+#drag-handle {
+  background-color: #444;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  cursor: move;
+  border-radius: 10px 10px 0 0;
+}
+
+#mentor-logo {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 10px auto;
+}
+
+#mentor-input {
+  width: calc(100% - 20px);
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+#mentor-submit {
+  width: calc(100% - 20px);
+  margin: 10px;
+  padding: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#mentor-submit:hover {
+  background-color: #45a049;
+}

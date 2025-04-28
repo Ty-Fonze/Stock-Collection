@@ -1,0 +1,45 @@
+2025-04-23 12:29:54,582 - INFO - Starting data collection scheduler...
+2025-04-23 12:39:40,252 - INFO - Starting data collection scheduler...
+2025-04-23 12:41:52,170 - INFO - Starting data collection scheduler (test mode)...
+2025-04-23 12:42:52,794 - INFO - Starting scheduled task...
+2025-04-23 12:42:53,793 - INFO - Intraday data for SPY saved successfully at C:\Users\72che\Stock Collection\SPY\intraday\2025-04-23_intraday.csv.
+2025-04-23 12:42:53,991 - INFO - Intraday data for AAPL saved successfully at C:\Users\72che\Stock Collection\AAPL\intraday\2025-04-23_intraday.csv.
+2025-04-23 12:42:54,155 - INFO - Intraday data for QQQ saved successfully at C:\Users\72che\Stock Collection\QQQ\intraday\2025-04-23_intraday.csv.
+2025-04-23 12:42:54,241 - ERROR - Error fetching options data for SPY: 403 Client Error: Forbidden for url: https://api.polygon.io/v3/snapshot/options/SPY?apiKey=hoeJx8t4DRWs7pFZSeOGwgAcXMIz6A1X
+2025-04-23 12:43:06,328 - ERROR - Error fetching options data for AAPL: 403 Client Error: Forbidden for url: https://api.polygon.io/v3/snapshot/options/AAPL?apiKey=hoeJx8t4DRWs7pFZSeOGwgAcXMIz6A1X
+2025-04-23 12:43:18,410 - ERROR - Error fetching options data for QQQ: 403 Client Error: Forbidden for url: https://api.polygon.io/v3/snapshot/options/QQQ?apiKey=hoeJx8t4DRWs7pFZSeOGwgAcXMIz6A1X
+2025-04-23 12:44:31,009 - INFO - Starting scheduled task...
+2025-04-23 12:44:31,137 - INFO - Intraday data for SPY saved successfully at C:\Users\72che\Stock Collection\SPY\intraday\2025-04-23_intraday.csv.
+2025-04-23 12:44:31,213 - INFO - Intraday data for AAPL saved successfully at C:\Users\72che\Stock Collection\AAPL\intraday\2025-04-23_intraday.csv.
+2025-04-23 12:44:31,306 - INFO - Intraday data for QQQ saved successfully at C:\Users\72che\Stock Collection\QQQ\intraday\2025-04-23_intraday.csv.
+2025-04-23 12:44:31,404 - ERROR - Error fetching options data for SPY: 403 Client Error: Forbidden for url: https://api.polygon.io/v3/snapshot/options/SPY?apiKey=hoeJx8t4DRWs7pFZSeOGwgAcXMIz6A1X
+2025-04-23 12:44:40,490 - INFO - Scheduler stopped by user.
+2025-04-23 12:52:52,418 - INFO - Starting data collection scheduler...
+2025-04-23 12:54:46,875 - INFO - Scheduler stopped by user.
+2025-04-23 12:55:12,769 - INFO - Starting data collection scheduler...
+2025-04-23 12:57:30,258 - INFO - Scheduler stopped by user.
+2025-04-23 12:59:54,828 - INFO - Starting data collection scheduler...
+2025-04-23 13:00:55,462 - INFO - Starting scheduled task...
+2025-04-23 13:00:55,844 - INFO - Intraday data for SPY saved successfully at C:\Users\72che\Stock Collection\SPY\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:00:55,918 - INFO - Intraday data for AAPL saved successfully at C:\Users\72che\Stock Collection\AAPL\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:00:55,996 - INFO - Intraday data for QQQ saved successfully at C:\Users\72che\Stock Collection\QQQ\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:00:59,214 - INFO - Options data for SPY saved successfully in C:\Users\72che\Stock Collection\SPY\options.
+2025-04-23 13:01:12,914 - INFO - Options data for AAPL saved successfully in C:\Users\72che\Stock Collection\AAPL\options.
+2025-04-23 13:01:28,135 - INFO - Options data for QQQ saved successfully in C:\Users\72che\Stock Collection\QQQ\options.
+2025-04-23 13:02:19,571 - INFO - Scheduler stopped by user.
+2025-04-23 13:12:05,347 - INFO - Starting data collection scheduler (test mode)...
+2025-04-23 13:13:05,977 - INFO - Starting scheduled task...
+2025-04-23 13:13:06,325 - INFO - Intraday data for SPY saved successfully at C:\Users\72che\Stock Collection\SPY\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:13:06,403 - INFO - Intraday data for AAPL saved successfully at C:\Users\72che\Stock Collection\AAPL\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:13:06,509 - INFO - Intraday data for QQQ saved successfully at C:\Users\72che\Stock Collection\QQQ\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:13:09,625 - INFO - Options data for SPY saved successfully in C:\Users\72che\Stock Collection\SPY\options.
+2025-04-23 13:13:23,466 - INFO - Options data for AAPL saved successfully in C:\Users\72che\Stock Collection\AAPL\options.
+2025-04-23 13:13:38,771 - INFO - Options data for QQQ saved successfully in C:\Users\72che\Stock Collection\QQQ\options.
+2025-04-23 13:14:51,388 - INFO - Starting scheduled task...
+2025-04-23 13:14:51,516 - INFO - Intraday data for SPY saved successfully at C:\Users\72che\Stock Collection\SPY\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:14:51,614 - INFO - Intraday data for AAPL saved successfully at C:\Users\72che\Stock Collection\AAPL\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:14:51,702 - INFO - Intraday data for QQQ saved successfully at C:\Users\72che\Stock Collection\QQQ\intraday\2025-04-23_intraday.csv.
+2025-04-23 13:14:54,768 - INFO - Options data for SPY saved successfully in C:\Users\72che\Stock Collection\SPY\options.
+2025-04-23 13:15:08,578 - INFO - Options data for AAPL saved successfully in C:\Users\72che\Stock Collection\AAPL\options.
+2025-04-23 13:15:23,712 - INFO - Options data for QQQ saved successfully in C:\Users\72che\Stock Collection\QQQ\options.
+2025-04-23 13:15:52,257 - INFO - Scheduler stopped by user.

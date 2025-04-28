@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+}
+
+#control-widget {
+  width: 200px;
+  height: 100px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#control-drag-handle {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  cursor: move;
+  border-radius: 10px 10px 0 0;
+}
+
+#current-time {
+  font-size: 18px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+#close-button {
+  width: 30px;
+  height: 30px;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#close-button:hover {
+  background-color: #ff1a1a;
+}

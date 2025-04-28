@@ -1,0 +1,9 @@
+{
+  "name": "my-desktop-widgets",
+  "version": "1.0.0",
+  "description": "A desktop widget application.",
+  "main": "main.js",
+  "author": "Ty-Fonze",
+  "license": "ISC",
+  "type": "commonjs"
+}
